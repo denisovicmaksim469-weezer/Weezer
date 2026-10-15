@@ -1,0 +1,11 @@
+{
+  "id": "margyt.reposts",
+  "name": "Repost Cleaner",
+  "name_ru": "Очистка репостов",
+  "version": "1.0",
+  "author": "",
+  "description": "Removes your reposts one by one: open a video from your Reposts tab, press Start in plugin settings.",
+  "description_ru": "Снимает ваши репосты по одному: откройте видео из вкладки «Репосты» и нажмите «Запустить» в настройках плагина.",
+  "entry": "cat.narezany.repostclean.RepostClean",
+  "min_api": 4
+}
